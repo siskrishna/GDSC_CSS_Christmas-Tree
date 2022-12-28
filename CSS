@@ -74,18 +74,17 @@
 }
 
 .or1 {
-    left: 50%;
-    top: 20%;
-    background: #FF4500;
-    box-shadow: 0 0 15px #FF4500,
-        0 0 30px #FF4500,
-        0 0 45px #FF4500,
-        0 0 60px #FF4500;
+    left: 59%;
+    top: 23%;
+    background: #ff308f;;
+    box-shadow: 0 0 15px #ff308f,
+        0 0 30px #ff308f,
+        0 0 45px #ff308f,
+        0 0 60px #ff308f;
 }
-
 .or2 {
-    left: 40%;
-    top: 40%;
+    left: 26%;
+    top: 49%;
     background: #ff308f;
     box-shadow: 0 0 15px #ff308f,
         0 0 30px #ff308f,
@@ -94,31 +93,40 @@
 }
 
 .or3 {
-    left: 60%;
-    top: 50%;
-    background: #ff0;
-    box-shadow: 0 0 15px #ff0,
-        0 0 30px #ff0,
-        0 0 45px #ff0,
-        0 0 60px #ff0;
+    left: 69%;
+    top: 49%;
+    background: #ff308f;
+    box-shadow: 0 0 15px #ff308f,
+        0 0 30px #ff308f,
+        0 0 45px #ff308f,
+        0 0 60px #ff308f;
 }
 
 .or4 {
-    left: 34%;
-    top: 62%;
-    background: #0f0;
-    box-shadow: 0 0 15px #0f0,
-        0 0 30px #0f0,
-        0 0 45px #0f0,
-        0 0 60px #0f0;
+    left: 16%;
+    top: 79%;
+    background: #ff308f;
+    box-shadow: 0 0 15px #ff308f,
+        0 0 30px #ff308f,
+        0 0 45px #ff308f,
+        0 0 60px #ff308f;
 }
 
 .or5 {
-    left: 55%;
-    top: 70%;
-    background: #df2fff;
-    box-shadow: 0 0 15px #df2fff,
-        0 0 30px #df2fff,
-        0 0 45px #df2fff,
-        0 0 60px #df2fff;
+    left: 79%;
+    top: 79%;
+    background: #ff308f;
+    box-shadow: 0 0 15px #ff308f,
+        0 0 30px #ff308f,
+        0 0 45px #ff308f,
+        0 0 60px #ff308f;
+}
+.or6 {
+    left: 36%;
+    top: 23%;
+    background: #ff308f;;
+    box-shadow: 0 0 15px #ff308f,
+        0 0 30px #ff308f,
+        0 0 45px #ff308f,
+        0 0 60px #ff308f;
 }
